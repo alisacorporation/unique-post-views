@@ -1,0 +1,17 @@
+# Ignore development and build files
+node_modules/
+build/
+Gruntfile.js
+package.json
+package-lock.json
+
+# Ignore IDE and editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+
+# Ignore system files
+.DS_Store
+Thumbs.db
